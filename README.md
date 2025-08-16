@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=3DFFA2&width=435&lines=Greetings%2C+I+am+Jovian+Yanto;I'm+Majoring+in+Data+Science;Currently+working+as+Data+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=750&color=3DFFA2&width=435&lines=Greetings%2C+I'm+Jovian;Majoring+in+Data+Science;Enthusiast+in+Data+Science+Field;I+Love+Automation+and+AIs;That's+all.+Happy+to+work+with+you)](https://git.io/typing-svg)
 
 <!--
 **LordLaffeys/LordLaffeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
